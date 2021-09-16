@@ -1,0 +1,15 @@
+latitude,longitude,title,address,Date,Workers_Affected,Type,Industry,Union
+33.83184713,-118.2517765,Discovision,"Carson, CA",Feb-82,"1,000",c,Consumer Electronics,
+33.95796275,-118.2266337,Firestone Rubber Company,"2525 Firestone Blvd, South Gate, CA 90280",Oct-80,"1,400",c,Tire,URW
+33.98415997,-118.0991993,Ford (Pico Rivera),"8820 Washington Blvd., Pico Rivera, CA 90660",Jan-80,"2,300",c,Auto,UAW
+33.97718587,-118.2359738,General Motors,"2720 Tweedy Boulevard, South Gate, CA",Mar-82,"2,915",c,Auto,UAW
+33.97718587,-118.2359738,General Motors,"2721 Tweedy Boulevard, South Gate, CA",Nov-81,"1,800",p,Auto,UAW
+34.21442895,-118.4484693,General Motors (Van Nuys),"7900 Van Nuys Blvd., Van Nuys, CA 91402",Nov-82,"2,200",l,Auto,UAW
+33.97949886,-118.2565885,Goodyear,"6701 S. Central Ave., Los Angeles CA",80,"1,580",c,Tire,URW
+34.57933048,-118.1171215,Lockheed,"Palmdale, CA",81/82,"1,500",l,Aerospace,IAM
+33.9110986,-118.3477382,Max Factor,"Hawthorne, CA",May-82,"1,000",c,Cosmetics,
+33.82513724,-118.1545171,McDonnell Douglas,"3855 Lakewood Boulevard, Long Beach, Los Angeles County, CA",81/82,"4,800",l,Aerospace,UAW
+33.95516389,-118.1973449,Weiser Lock,"4100 Ardmore Ave, South Gate, CA",81,"2,100",c,Furniture,
+34.06084629,-117.6518403,General Electric,"Ontario, CA",Jan-82,"1,000",c,Electrical,UE
+34.07624554,-117.5073608,Kaiser Steel,"14000 San Bernardino Ave, Fontana, CA 92335",82,"3,021",p,Steel,USW
+34.07624554,-117.5073608,Kaiser Steel,"14001 San Bernardino Ave, Fontana, CA 92335",78/81,"1,180",p,Steel,USW
