@@ -50,7 +50,7 @@ function mapCSV(data){
 		// create a marker
 		let marker = L.circleMarker([item.latitude,item.longitude],circleOptions)
 		.on('click',function(){
-			this.bindPopup(`<b>${item.Name}</b><br><em>Description: </em>${item.Description}<br><em>Address: </em>${item.Address}<br><em>Theme: </em>${item.Theme}`).openPopup()
+			this.bindPopup(`<b>${item.Name}</b><br><em>Description: </em>${item.Description}<br><em>Address: </em>${item.Address}<br><em>Theme: </em>${item.Theme}<br><em>Source Year: </em>${item.SourceYear}`).openPopup()
 		})
 
 		// add marker to featuregroup
