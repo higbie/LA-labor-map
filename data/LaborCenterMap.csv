@@ -1,77 +1,77 @@
-latitude,longitude,Name,Address,Description,Theme,SourceYear,,
-34.0646563,-118.2894329,AFSCME,"514 Shatto Pl., Los Angeles, CA 90020",,union hall,2021,,
-34.0713217,-118.3050599,IBEW Local 18,"4189 W. 2nd St., Los Angeles,CA 90004",,union hall,2021,,
-34.0650571,-118.2762863,IUOE,"2405 W. 3rd St., Los Angeles, CA 90057",,union hall,2021,,
-34.0471587,-118.281303,LIUNA Local 300,"2005 W. Pico Blvd., Los Angeles, CA 90006",,union hall,2021,,
-34.0535147,-118.2795673,Los Angeles County Federation of Labor,"2130 James M. Wood Blvd., Los Angeles,CA 90006",,union hall,2021,,
-34.0634801,-118.2643068,Building Trades and Construction Trades Council,"1626 Beverly Blvd., Los Angeles, CA 90026",,union hall,2021,,
-34.0510571,-118.2697661,National Assoc. of Letter Carriers,"775 Columbia Ave., Los Angeles,CA 90017",,union hall,2021,,
-34.0574381,-118.2849457,SEIU Local 99,"2724 W. 8th St., Los Angeles, CA 90005",,union hall,2021,,
-34.0555766,-118.2697011,SEIU Local 121,"1545 Wilshire Blvd., Los Angeles, CA 90017",,union hall,2021,,
-34.0707898,-118.2805722,SEIU Local 2016,"2910 Beverly Blvd., Los Angeles, CA 90057",,union hall,2021,,
-34.0356964,-118.2759132,SEIU-USWW,"828 W. Washington Blvd, Los Angeles, CA 90015",,union hall,2021,,
-34.0524767,-118.2789964,SEIU Local 52,"920 S. Alvarado, Los Angeles, CA 90006",,union hall,2021,,
-34.0652856,-118.2904377,Pipe Trades District Council 16,"501 Shatto Pl., Los Angeles, CA 90020",,union hall,2021,,
-34.0521824,-118.2589207,Southwest Regional Council of Carpenters,"533 S. Fremont Ave., Los Angeles, CA 90017",,union hall,2021,,
-34.0557651,-118.2628492,UNITE HERE Local 11,"464 Lucas Ave., Los Angeles, CA 90017",,union hall,2021,,
-34.0483134,-118.2670518,UC Plumbers Local 78,"1111 James M Wood Blvd, Los Angeles, CA 90015",,union hall,2021,,
-34.062793,-118.2895243,UCFW Local 770,"630 Shatto Pl., Los Angeles, CA 90005",,union hall,2021,,
-34.052953,-118.265186,USA Local 829 (IATSE),"1200 Wilshire Blvd, Los Angeles, CA 90017",,union hall,2021,,
-34.0625731,-118.2944253,UTLA,"3303 Wilshire Blvd., Los Angeles, CA 90010",,union hall,2021,,
-34.0524767,-118.2789964,Workers United Western States Board,"920 S. Alvarado, Los Angeles, CA 90006",,union hall,2021,,
-34.0554017,-118.2695007,Alliance for a Better Community,"1541 Wilshire Blvd, Los Angeles, CA 90017",,community organization,2021,,
-34.0506597,-118.2695184,ACLU,"1313 W. 8th St, Los Angeles, CA 90017",,law,2021,,
-34.0600583,-118.2854137,Central American Resource Center,"2845 W. 7th St., Los Angeles, CA 90005",,"community organization, immigration",2021,,
-34.066049,-118.2710977,Clinica Romero,"123 S. Alvarado St., Los Angeles, CA 90057",,"healthcare, immigration",2021,,
-34.0653603,-118.277078,CHIRLA,"2533 W. 3rd, Los Angeles, CA 90057",,"community organization, immigration",2021,,
-34.0518497,-118.2705233,El Rescate,"1501 W. 8th St., Los Angeles, CA 90017",,"community organization, immigration",2021,,
-34.0503227,-118.2725695,Esperanza Immigrant Rights Project,"1530 James M Wood Blvd., Los Angeles, CA 90015",,"community organization, immigration, law",2021,,
-34.0620291,-118.2880824,Food Chain Workers Alliance,"3055 Wilshire Blvd., Los Angeles, CA 90010",,research,2021,,
-34.051177,-118.292967,KIWA,"1053 S. New Hampshire Ave., Los Angeles, CA 90006",,worker center,2021,,
-34.051968,-118.271996,Legal Aid Foundation,"1550 W. 8th St., Los Angeles, CA 90017",,law,2021,,
-34.0557651,-118.2628492,LAANE,"464 Lucas Ave., Los Angeles, CA 90017",,research,2021,,
-34.0656215,-118.2706603,LA Hospitality Training Academy,"130 S. Alvarado St., Los Angeles, CA 90057",,education,2021,,
-34.0525613,-118.2627151,Pico Union Work Source Center,"1055 Wilshire Blvd., Los Angeles, CA 90017",,,2021,,
-34.0634896,-118.260097,Pilipino Workers Center,"153 Glendale Blvd., Los Angeles, CA 90026",,worker center,2021,,
-34.061086,-118.2933151,Wage Justice Center,"3250 Wilshire Blvd., Los Angeles, CA 90010",,law,2021,,
-34.0555766,-118.2697011,Worker Education and Resource Center,"1545 Wilshire Blvd., Los Angeles, CA 90017",,education,2021,,
-34.0563943,-118.2735609,Peoples College of Law,"660 S. Bonnie Brae St., Los Angeles, CA 90057",,law,2021,,
-34.0574676,-118.2614788,Miguel Contreras Learning Complex,"322 Lucas Ave., Los Angeles, CA 90017",,education,2021,,
+latitude,longitude,Name,Address,Description,Theme,SourceYear
+34.0646563,-118.2894329,AFSCME,"514 Shatto Pl., Los Angeles, CA 90020",,union hall,2021
+34.0713217,-118.3050599,IBEW Local 18,"4189 W. 2nd St., Los Angeles,CA 90004",,union hall,2021
+34.0650571,-118.2762863,IUOE,"2405 W. 3rd St., Los Angeles, CA 90057",,union hall,2021
+34.0471587,-118.281303,LIUNA Local 300,"2005 W. Pico Blvd., Los Angeles, CA 90006",,union hall,2021
+34.0535147,-118.2795673,Los Angeles County Federation of Labor,"2130 James M. Wood Blvd., Los Angeles,CA 90006",,union hall,2021
+34.0634801,-118.2643068,Building Trades and Construction Trades Council,"1626 Beverly Blvd., Los Angeles, CA 90026",,union hall,2021
+34.0510571,-118.2697661,National Assoc. of Letter Carriers,"775 Columbia Ave., Los Angeles,CA 90017",,union hall,2021
+34.0574381,-118.2849457,SEIU Local 99,"2724 W. 8th St., Los Angeles, CA 90005",,union hall,2021
+34.0555766,-118.2697011,SEIU Local 121,"1545 Wilshire Blvd., Los Angeles, CA 90017",,union hall,2021
+34.0707898,-118.2805722,SEIU Local 2016,"2910 Beverly Blvd., Los Angeles, CA 90057",,union hall,2021
+34.0356964,-118.2759132,SEIU-USWW,"828 W. Washington Blvd, Los Angeles, CA 90015",,union hall,2021
+34.0524767,-118.2789964,SEIU Local 52,"920 S. Alvarado, Los Angeles, CA 90006",,union hall,2021
+34.0652856,-118.2904377,Pipe Trades District Council 16,"501 Shatto Pl., Los Angeles, CA 90020",,union hall,2021
+34.0521824,-118.2589207,Southwest Regional Council of Carpenters,"533 S. Fremont Ave., Los Angeles, CA 90017",,union hall,2021
+34.0557651,-118.2628492,UNITE HERE Local 11,"464 Lucas Ave., Los Angeles, CA 90017",,union hall,2021
+34.0483134,-118.2670518,UC Plumbers Local 78,"1111 James M Wood Blvd, Los Angeles, CA 90015",,union hall,2021
+34.062793,-118.2895243,UCFW Local 770,"630 Shatto Pl., Los Angeles, CA 90005",,union hall,2021
+34.052953,-118.265186,USA Local 829 (IATSE),"1200 Wilshire Blvd, Los Angeles, CA 90017",,union hall,2021
+34.0625731,-118.2944253,UTLA,"3303 Wilshire Blvd., Los Angeles, CA 90010",,union hall,2021
+34.0524767,-118.2789964,Workers United Western States Board,"920 S. Alvarado, Los Angeles, CA 90006",,union hall,2021
+34.0554017,-118.2695007,Alliance for a Better Community,"1541 Wilshire Blvd, Los Angeles, CA 90017",,community organization,2021
+34.0506597,-118.2695184,ACLU,"1313 W. 8th St, Los Angeles, CA 90017",,law,2021
+34.0600583,-118.2854137,Central American Resource Center,"2845 W. 7th St., Los Angeles, CA 90005",,"community organization, immigration",2021
+34.066049,-118.2710977,Clinica Romero,"123 S. Alvarado St., Los Angeles, CA 90057",,"healthcare, immigration",2021
+34.0653603,-118.277078,CHIRLA,"2533 W. 3rd, Los Angeles, CA 90057",,"community organization, immigration",2021
+34.0518497,-118.2705233,El Rescate,"1501 W. 8th St., Los Angeles, CA 90017",,"community organization, immigration",2021
+34.0503227,-118.2725695,Esperanza Immigrant Rights Project,"1530 James M Wood Blvd., Los Angeles, CA 90015",,"community organization, immigration, law",2021
+34.0620291,-118.2880824,Food Chain Workers Alliance,"3055 Wilshire Blvd., Los Angeles, CA 90010",,research,2021
+34.051177,-118.292967,KIWA,"1053 S. New Hampshire Ave., Los Angeles, CA 90006",,worker center,2021
+34.051968,-118.271996,Legal Aid Foundation,"1550 W. 8th St., Los Angeles, CA 90017",,law,2021
+34.0557651,-118.2628492,LAANE,"464 Lucas Ave., Los Angeles, CA 90017",,research,2021
+34.0656215,-118.2706603,LA Hospitality Training Academy,"130 S. Alvarado St., Los Angeles, CA 90057",,education,2021
+34.0525613,-118.2627151,Pico Union Work Source Center,"1055 Wilshire Blvd., Los Angeles, CA 90017",,,2021
+34.0634896,-118.260097,Pilipino Workers Center,"153 Glendale Blvd., Los Angeles, CA 90026",,worker center,2021
+34.061086,-118.2933151,Wage Justice Center,"3250 Wilshire Blvd., Los Angeles, CA 90010",,law,2021
+34.0555766,-118.2697011,Worker Education and Resource Center,"1545 Wilshire Blvd., Los Angeles, CA 90017",,education,2021
+34.0563943,-118.2735609,Peoples College of Law,"660 S. Bonnie Brae St., Los Angeles, CA 90057",,law,2021
+34.0574676,-118.2614788,Miguel Contreras Learning Complex,"322 Lucas Ave., Los Angeles, CA 90017",,education,2021
 34.07093992,-118.2803532,"SEIU Local 2015, Long-term Care Worker Organizing","2910 Beverly Blvd. 
-Los Angeles 90057 ",,"union hall, healthcare",,,
-34.05862673,-118.2803071,UCLA Labor Center | ILGWU (1984-86) ,"675 S. Park View St., Los Angeles, CA 90057 ","The UCLA Downtown Labor Center on MacArthur Park occupies the former headquarters of the International Ladies' Garment Workers' Union (ILGWU) in Los Angeles. The ILGWU moved into the building in the early 1980s while the union a leader in organizing new immigrant workers in Los Angeles. The building also housed the Jobs with Peace campaign (1986), a Labor Immigrant Assistance Project site (1987), the campaign of Maria Elena Durazo to lead HERE Local 11 (1988-89), and the offices of the National Day Laborer Organizing Network (2000s). The UCLA Labor Center began using the building in 2002.","union hall, garment workers","1987, 2021",,
-34.043738,-118.258384,"Southern California District Council, ILGWU","400 W. 9th St., Los Angeles, CA 90015",Union hall for ILGWU through mid 1980s,garment workers,1973,,
-34.057571,-118.2801539,National Lawyers Guild,"715-23 S. Park View Ave., Los Angeles, CA 90057","National Immigration Project offices, early 1970s",immigration,,,
-34.026689,-118.270357,"Amalgamated Clothing and Textile Workers Union, Southern California Regional Joint Board. Later, La Hermandad Mexicana","2501 S. Hill St., Los Angeles, CA 90007","ACTWU Hall. LIAP site, 1987 (See LAT 5/2/87)","garment workers, immigration",,,
-34.03411039,-118.2618679,Garment workers drop-in center/CIWA,"110 E. 15th Street, Los Angeles, CA 90015",Drop-in center for garment workers  establsihed by ILGWU as part of CIWA,"garment workers, worker centers, immigration",,,
-34.04732367,-118.2965328,Centro Accion Social Aut—nimo (CASA),"2673 W. Pico Blvd., Los Angeles, CA 90006",Immigrant and Chicano rights organization founded by Bert Corona,immigration,,,
-34.04732383,-118.2964952,National Coalition for Fair Immigration Laws and Practices,"2671 W. Pico Blvd, Los Angeles, CA 90006",Coalition to oppose deportations and employer sanctions led by Bert Corona,immigration,,,
-34.06486182,-118.2898262,California Immigrant Workers Association (CIWA),"515 S. Shatto Pl., Los Angeles, CA 90020","CIWA Offices, Laborers' union hall",immigration,,,
-34.0574691,-118.2903861,First Unitarian Church,"2936 W. 8th St., Los Angeles, CA 90005",Union and movement organizing site since WWII,religion,,,
-34.0189111,-118.1796689,United Farm Workers,"1434 Olympic Blvd, Los Angeles, CA 90015",,farmworkers,,,
-34.0189111,-118.1796689,National Farm Worker Ministry,"1430 Olympic Blvd., Los Angeles, CA 90015",,farmworkers,,,
-34.0568772,-118.2780846,Building Trades AFL-CIO; News Vendors Union Local 75; Building Trades AFL-CIO; Paint Makers Local Union 1232; Carpenters Floor Worker's; Carpenters Los Angeles County District; State Building and Construction Trades Council; Hotel and Motel Service and Club Employee's,"2200 West 7th Street, Los Angeles, CA",,union hall,1973,,
-34.0575373,-118.279533,Social Services Union Local 535,"2300 West 7th Street, Los Angeles, CA",,union hall,1973,,
-34.0575126,-118.2795848,IBEW,"2304 West 7th Street, Los Angeles, CA",,union hall,1973,,
-34.0575227,-118.2796066,IBEW,"2316 West 7th Street, Los Angeles, CA",,union hall,"1973 , 1987 ",,
-34.0575244,-118.2796102,IBEW,"2318 West 7th Street, Los Angeles, CA",,union hall,"1973 , 1987 ",,
-34.0578611,-118.2804319,National Association of Letter Carriers,"2412 West 7th Street, Los Angeles, CA",,union hall,1973,,
-34.058373,-118.2813758,Plumbers Union Local No. 78 AFL-CIO,"2504 West 7th Street, Los Angeles, CA",,union hall,1973,,
-34.0585688,-118.282163,Youth Committee for Peace & Democracy,"2548 West 7th Street, Los Angeles, CA",,peace movement,1973,,
-34.057024,-118.280058,International Union of Operating Engineers; Building Trades AFO-CIO Local No 12,"724 South Park View Street, Los Angeles, CA",,union hall,1987,,
-34.0573455,-118.2805722,Los Angeles Electrical Workers Credit Union,"729 South Park View Street, Los Angeles, CA",,finance/pension,1987,,
-34.0563943,-118.2735609,Peoples College of Law; Committee for Justice,"660 South Bonnie Brae Street, Los Angeles, CA",,law,1987,,
-34.0622654,-118.2984956,Teamsters Joint Council No 42,"3435 Wilshire Boulevard, Los Angeles, CA",,union hall,1987,,
-34.0612062,-118.3016746,Southern California District Council of Laborers,"3540 Wilshire Boulevard, Los Angeles, CA",,union hall,1987,,
-34.0639575,-118.2867839,Laborers Construction Trust Funds,"2999 West 6th Street, Los Angeles, CA",,finance/pension,1987,,
-34.0646682,-118.2903464,Laborers International Union of North America,"515 Shatto Place, Los Angeles, CA",,union hall,1987,,
-34.0471587,-118.281303,LIUNA,"2005 West Pico Boulevard, Los Angeles, CA",,union hall,1987,,
-34.0646611,-118.2870714,LIUNA,"512 South Virgil Avenue, Los Angeles, CA",,union hall,1987,,
-34.0600786,-118.2814857,Amalgamated Transit Union Div. 1277,"2500 Wilshire Boulevard, Los Angeles, CA",,union hall,1987,,
-34.0482367,-118.2670973,Plumbers Union Local 78,"1111 West 9th Street, Los Angeles, CA",,union hall,1987,,
-34.0508105,-118.2737659,Teamsters Joint Council No 42; Teamsters and Miscellaneous Warehousemen Drivers; Teamsters Local union 578; Amalgamated Lithographers Credit Union,"1616 West 9th Street, Los Angeles, CA",,union hall,1987,,
-34.0515952,-118.2751486,Bricklayers & Stonemasons Union,"1740 West 9th Street, Los Angeles, CA",,union hall,1987,,
-34.0536053,-118.2797792,L.A. County Federation of Labor; AFL-CIO Immigrant Assistance Program,"2130 West 9th Street, Los Angeles, CA",,"union hall, immigration",1987,,
-34.0596836,-118.2805732,Teamsters Joint Council No 42,"2420 Wilshire Boulevard, Los Angeles, CA",,union hall,1987,,
-34.037289,-118.279476,SEIU Local 660,"950 West Washington Boulevard, Los Angeles, CA",,union hall,1987,,
-34.0524288,-118.2672604,Hospital and Service Employees Union Local,"1247 West 7th Street, Los Angeles, CA",,union hall,1987,,
+Los Angeles 90057 ",,"union hall, healthcare",
+34.05862673,-118.2803071,UCLA Labor Center | ILGWU (1984-86) ,"675 S. Park View St., Los Angeles, CA 90057 ","The UCLA Downtown Labor Center on MacArthur Park occupies the former headquarters of the International Ladies' Garment Workers' Union (ILGWU) in Los Angeles. The ILGWU moved into the building in the early 1980s while the union a leader in organizing new immigrant workers in Los Angeles. The building also housed the Jobs with Peace campaign (1986), a Labor Immigrant Assistance Project site (1987), the campaign of Maria Elena Durazo to lead HERE Local 11 (1988-89), and the offices of the National Day Laborer Organizing Network (2000s). The UCLA Labor Center began using the building in 2002.","union hall, garment workers","1987, 2021"
+34.043738,-118.258384,"Southern California District Council, ILGWU","400 W. 9th St., Los Angeles, CA 90015",Union hall for ILGWU through mid 1980s,garment workers,1973
+34.057571,-118.2801539,National Lawyers Guild,"715-23 S. Park View Ave., Los Angeles, CA 90057","National Immigration Project offices, early 1970s",immigration,
+34.026689,-118.270357,"Amalgamated Clothing and Textile Workers Union, Southern California Regional Joint Board. Later, La Hermandad Mexicana","2501 S. Hill St., Los Angeles, CA 90007","ACTWU Hall. LIAP site, 1987 (See LAT 5/2/87)","garment workers, immigration",
+34.03411039,-118.2618679,Garment workers drop-in center/CIWA,"110 E. 15th Street, Los Angeles, CA 90015",Drop-in center for garment workers  establsihed by ILGWU as part of CIWA,"garment workers, worker centers, immigration",
+34.04732367,-118.2965328,Centro Accion Social Aut—nimo (CASA),"2673 W. Pico Blvd., Los Angeles, CA 90006",Immigrant and Chicano rights organization founded by Bert Corona,immigration,
+34.04732383,-118.2964952,National Coalition for Fair Immigration Laws and Practices,"2671 W. Pico Blvd, Los Angeles, CA 90006",Coalition to oppose deportations and employer sanctions led by Bert Corona,immigration,
+34.06486182,-118.2898262,California Immigrant Workers Association (CIWA),"515 S. Shatto Pl., Los Angeles, CA 90020","CIWA Offices, Laborers' union hall",immigration,
+34.0574691,-118.2903861,First Unitarian Church,"2936 W. 8th St., Los Angeles, CA 90005",Union and movement organizing site since WWII,religion,
+34.04801,-118.27171,United Farm Workers,"1434 Olympic Blvd, Los Angeles, CA 90015",,farmworkers,
+34.04807,-118.27222,National Farm Worker Ministry,"1430 Olympic Blvd., Los Angeles, CA 90015",,farmworkers,
+34.0568772,-118.2780846,Building Trades AFL-CIO; News Vendors Union Local 75; Building Trades AFL-CIO; Paint Makers Local Union 1232; Carpenters Floor Worker's; Carpenters Los Angeles County District; State Building and Construction Trades Council; Hotel and Motel Service and Club Employee's,"2200 West 7th Street, Los Angeles, CA",,union hall,1973
+34.0575373,-118.279533,Social Services Union Local 535,"2300 West 7th Street, Los Angeles, CA",,union hall,1973
+34.0575126,-118.2795848,IBEW,"2304 West 7th Street, Los Angeles, CA",,union hall,1973
+34.0575227,-118.2796066,IBEW,"2316 West 7th Street, Los Angeles, CA",,union hall,"1973 , 1987 "
+34.0575244,-118.2796102,IBEW,"2318 West 7th Street, Los Angeles, CA",,union hall,"1973 , 1987 "
+34.0578611,-118.2804319,National Association of Letter Carriers,"2412 West 7th Street, Los Angeles, CA",,union hall,1973
+34.058373,-118.2813758,Plumbers Union Local No. 78 AFL-CIO,"2504 West 7th Street, Los Angeles, CA",,union hall,1973
+34.0585688,-118.282163,Youth Committee for Peace & Democracy,"2548 West 7th Street, Los Angeles, CA",,peace movement,1973
+34.057024,-118.280058,International Union of Operating Engineers; Building Trades AFO-CIO Local No 12,"724 South Park View Street, Los Angeles, CA",,union hall,1987
+34.0573455,-118.2805722,Los Angeles Electrical Workers Credit Union,"729 South Park View Street, Los Angeles, CA",,finance/pension,1987
+34.0563943,-118.2735609,Peoples College of Law; Committee for Justice,"660 South Bonnie Brae Street, Los Angeles, CA",,law,1987
+34.0622654,-118.2984956,Teamsters Joint Council No 42,"3435 Wilshire Boulevard, Los Angeles, CA",,union hall,1987
+34.0612062,-118.3016746,Southern California District Council of Laborers,"3540 Wilshire Boulevard, Los Angeles, CA",,union hall,1987
+34.0639575,-118.2867839,Laborers Construction Trust Funds,"2999 West 6th Street, Los Angeles, CA",,finance/pension,1987
+34.0646682,-118.2903464,Laborers International Union of North America,"515 Shatto Place, Los Angeles, CA",,union hall,1987
+34.0471587,-118.281303,LIUNA,"2005 West Pico Boulevard, Los Angeles, CA",,union hall,1987
+34.0646611,-118.2870714,LIUNA,"512 South Virgil Avenue, Los Angeles, CA",,union hall,1987
+34.0600786,-118.2814857,Amalgamated Transit Union Div. 1277,"2500 Wilshire Boulevard, Los Angeles, CA",,union hall,1987
+34.0482367,-118.2670973,Plumbers Union Local 78,"1111 West 9th Street, Los Angeles, CA",,union hall,1987
+34.0508105,-118.2737659,Teamsters Joint Council No 42; Teamsters and Miscellaneous Warehousemen Drivers; Teamsters Local union 578; Amalgamated Lithographers Credit Union,"1616 West 9th Street, Los Angeles, CA",,union hall,1987
+34.0515952,-118.2751486,Bricklayers & Stonemasons Union,"1740 West 9th Street, Los Angeles, CA",,union hall,1987
+34.0536053,-118.2797792,L.A. County Federation of Labor; AFL-CIO Immigrant Assistance Program,"2130 West 9th Street, Los Angeles, CA",,"union hall, immigration",1987
+34.0596836,-118.2805732,Teamsters Joint Council No 42,"2420 Wilshire Boulevard, Los Angeles, CA",,union hall,1987
+34.037289,-118.279476,SEIU Local 660,"950 West Washington Boulevard, Los Angeles, CA",,union hall,1987
+34.0524288,-118.2672604,Hospital and Service Employees Union Local,"1247 West 7th Street, Los Angeles, CA",,union hall,1987
