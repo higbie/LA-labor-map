@@ -1,2 +1,2 @@
 # LA-labor-maps
-https://higbie.github.io/DLC-Neighborhood
+https://higbie.github.io/
