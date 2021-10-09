@@ -14,12 +14,7 @@ $( document ).ready(function() {
 function createMap(){
 	map = L.map('map').setView([0,0], 3);
 
-	/*
 	
-		default (for now) is mapbox black and white satellite		
-	
-
-	*/ 
 	let satellite = L.tileLayer('https://api.mapbox.com/styles/v1/higbie/ckug506sc0yf217lokui29c91/tiles/512/{z}/{x}/{y}@2x?access_token=pk.eyJ1IjoiaGlnYmllIiwiYSI6ImNqdnExb2xpYjB5OW0zenJoZHAxb2VwY3IifQ.1GycCBHfgdkoYXUGn8_9Hw', 
 	{
 		attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
